@@ -1,0 +1,13 @@
+{
+  "city": "London",
+  "current": {
+    "temperature": 18,
+    "humidity": 72,
+    "description": "Partly cloudy"
+  },
+  "forecast": [
+    { "day": "Monday", "temperature": 20, "description": "Sunny" },
+    { "day": "Tuesday", "temperature": 22, "description": "Cloudy" },
+    { "day": "Wednesday", "temperature": 19, "description": "Rain" }
+  ]
+}
